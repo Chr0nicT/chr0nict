@@ -28,7 +28,7 @@ Self-taught, started deep in the stack: iOS tweak injection, jailbreak
 daemons, dual-boot, and reverse engineering in C / Objective-C. 
 Previously a contributor to [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI).
 Some of the early work is still up, like
-[n81apdualboot](https://github.com/n81apdualboot).
+[n81apdualboot](https://github.com/chr0nict/n81apdualboot).
 
 ### ⚙️ Stack
 
